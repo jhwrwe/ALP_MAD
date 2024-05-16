@@ -11,6 +11,7 @@ import SwiftUI
 struct ALP_MADApp: App {
     var body: some Scene {
         WindowGroup {
+            //contentview
             ContentView()
         }
     }
